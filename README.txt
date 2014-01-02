@@ -13,3 +13,5 @@ TO load your own MySQL server:
 	4a. ddatabase_name is name of database that you created
 	4b. test.sql is a file in this repo
 5. You must add the mysql-connector-java-5.1.25-bin to the build path of the project in Eclipse.
+
+Contact me @ rahuligan007@gmail.com
